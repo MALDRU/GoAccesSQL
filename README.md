@@ -5,7 +5,7 @@ Libreria para la conexion y operaciones con el motor de base de datos MariaDB y 
 ## 1. Obtencion de libreria
 
 ```bash
-go get https://github.com/MALDRU/GoAccesSQL
+go get github.com/MALDRU/GoAccesSQL
 ```
 
 ## 2. Conexion
